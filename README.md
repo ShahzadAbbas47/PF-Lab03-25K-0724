@@ -1,15 +1,16 @@
 # PF-Lab03-25K-0724
 ## HEADING 2
 ### HEADING 3
-<br/>
+
 **TS is bold**
-<br/>
-_TS is italic_
-<br/>
+
+*TS is italic*
+
 - football
 - cricket
-  <br/>
-1. DBXV2
-2. Preview
-3. Football
-4. Cricket
+- space
+- dbxv2
+  1. DBXV2
+  2. Preview
+  3. Football
+  4. Cricket
