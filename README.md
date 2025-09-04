@@ -8,8 +8,6 @@ _TS is italic_
 <br/>
 - football
 - cricket
-- space
-- dbxv2
   <br/>
 1. DBXV2
 2. Preview
